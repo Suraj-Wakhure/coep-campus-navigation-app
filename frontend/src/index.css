@@ -1,0 +1,3 @@
+body { margin:0; padding:20px; background:#fafafa; color:#222; font-family: Arial, sans-serif; }
+button{ cursor:pointer; }
+select,input{ padding:6px 8px; }

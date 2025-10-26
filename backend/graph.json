@@ -1,0 +1,234 @@
+{
+  "Gate 1 - Entry": {
+    "COEP META CANTEEN": 50,
+    "Geology Department Museum": 40,
+    "K. R. NATU SCHOOL OF ENGINEERING": 60,
+    "Electrical Engineering Department": 100
+  },
+  "COEP META CANTEEN": {
+    "Gate 1 - Entry": 50,
+    "Geology Department Museum": 30,
+    "K. R. NATU SCHOOL OF ENGINEERING": 40,
+    "COEP Co-operative Store & Xerox": 25
+  },
+  "Geology Department Museum": {
+    "Gate 1 - Entry": 40,
+    "COEP META CANTEEN": 30,
+    "Electrical Engineering Department": 45
+  },
+  "K. R. NATU SCHOOL OF ENGINEERING": {
+    "Gate 1 - Entry": 60,
+    "COEP META CANTEEN": 40,
+    "Electrical Engineering Department": 35
+  },
+  "COEP Co-operative Store & Xerox": {
+    "COEP META CANTEEN": 25,
+    "Electrical Engineering Department": 40
+  },
+  "Electrical Engineering Department": {
+    "Geology Department Museum": 45,
+    "K. R. NATU SCHOOL OF ENGINEERING": 35,
+    "COEP Co-operative Store & Xerox": 40,
+    "Hella Lab Electrical dept": 20,
+    "Department of Mathematics": 25,
+    "Gate 1 - Entry": 100
+  },
+  "COEP Electrical Department Garden": {
+    "Electrical Engineering Department": 15,
+    "Hella Lab Electrical dept": 30
+  },
+  "Hella Lab Electrical dept": {
+    "Electrical Engineering Department": 20,
+    "COEP Electrical Department Garden": 30,
+    "Department of Mathematics": 35
+  },
+  "Department of Mathematics": {
+    "Electrical Engineering Department": 25,
+    "Hella Lab Electrical dept": 35,
+    "Language Laboratory": 20
+  },
+  "Language Laboratory": {
+    "Department of Mathematics": 20,
+    "Department of Planning": 25
+  },
+  "Department of Planning": {
+    "Language Laboratory": 25,
+    "Geotechnical Engineering laboratory & environement engineering lab": 30,
+    "Establishment Section": 100
+  },
+  "Geotechnical Engineering laboratory & environement engineering lab": {
+    "Department of Planning": 30,
+    "Plumbing Lab": 40
+  },
+  "Scholorship Section": {
+    "Establishment Section": 10,
+    "Account Section": 15
+  },
+  "Establishment Section": {
+    "Scholorship Section": 10,
+    "Account Section": 10,
+    "Department of Planning": 100
+  },
+  "Account Section": {
+    "Scholorship Section": 15,
+    "Establishment Section": 10,
+    "Student Office": 25
+  },
+  "Toilet - Sanitary": {
+    "Student Office": 20,
+    "MIS Office": 30
+  },
+  "Student Office": {
+    "Account Section": 25,
+    "Toilet - Sanitary": 20,
+    "MIS Office": 35
+  },
+  "Plumbing Lab": {
+    "Geotechnical Engineering laboratory & environement engineering lab": 40,
+    "CIVIL Engineering Departement": 45
+  },
+  "MIS Office": {
+    "Toilet - Sanitary": 30,
+    "Student Office": 35,
+    "CIVIL Engineering Departement": 40
+  },
+  "CIVIL Engineering Departement": {
+    "Plumbing Lab": 45,
+    "MIS Office": 40,
+    "Alumni Association of COEP Tech university": 50
+  },
+  "Alumni Association of COEP Tech university": {
+    "CIVIL Engineering Departement": 50,
+    "Training and Placement Cell": 10
+  },
+  "Training and Placement Cell": {
+    "Alumni Association of COEP Tech university": 10,
+    "Auditorium/ Central Library/ Events Lobby (mindspark, impressions)": 60
+  },
+  "Auditorium/ Central Library/ Events Lobby (mindspark, impressions)": {
+    "Training and Placement Cell": 60,
+    "Zest office": 25,
+    "COEP SBI Bank / ATM": 30,
+    "TUNNEL1 - North Campus Entry and Exit": 70
+  },
+  "Department of Manufacturing engineering and industrial management": {
+    "Seminar Hall - 1": 20,
+    "Seminar Hall - 2": 35
+  },
+  "Zest office": {
+    "Auditorium/ Central Library/ Events Lobby (mindspark, impressions)": 25
+  },
+  "Seminar Hall - 1": {
+    "Department of Manufacturing engineering and industrial management": 20
+  },
+  "Seminar Hall - 2": {
+    "Department of Manufacturing engineering and industrial management": 35
+  },
+  "COEP SBI Bank / ATM": {
+    "Auditorium/ Central Library/ Events Lobby (mindspark, impressions)": 30
+  },
+  "Departement of Metallurgy and Material Engineering": {
+    "Navarmal Firodia Dept of META": 10,
+    "COEP Bus Stop": 15,
+    "Gate No. 2": 20
+  },
+  "Navarmal Firodia Dept of META": {
+    "Departement of Metallurgy and Material Engineering": 10
+  },
+  "COEP Bus Stop": {
+    "Departement of Metallurgy and Material Engineering": 15,
+    "Gate No. 2": 10
+  },
+  "Gate No. 2": {
+    "Departement of Metallurgy and Material Engineering": 20,
+    "COEP Bus Stop": 10
+  },
+  "Statue of COEP": {
+    "TUNNEL1 - North Campus Entry and Exit": 40
+  },
+  "TUNNEL1 - North Campus Entry and Exit": {
+    "Statue of COEP": 40,
+    "Auditorium/ Central Library/ Events Lobby (mindspark, impressions)": 70,
+    "TUNNEL2 - Sount Campus Entry and Exit": 80
+  },
+  "TUNNEL2 - Sount Campus Entry and Exit": {
+    "TUNNEL1 - North Campus Entry and Exit": 80,
+    "Mechanical Engineering Department": 50
+  },
+  "Mechanical Engineering Department": {
+    "TUNNEL2 - Sount Campus Entry and Exit": 50,
+    "Bajaj School of Mechnical Engineering": 40,
+    "COEP's Bhau Institute": 25,
+    "Ignited Innovators of India (i2i)": 30
+  },
+  "Bajaj School of Mechnical Engineering": {
+    "Mechanical Engineering Department": 40,
+    "Hyperloop Lab": 25,
+    "New - Computer Science Department And Library": 35
+  },
+  "Hyperloop Lab": {
+    "Bajaj School of Mechnical Engineering": 25,
+    "Gate 3": 40
+  },
+  "Gate 3": {
+    "Hyperloop Lab": 40,
+    "New - Computer Science Department And Library": 30
+  },
+  "House of Clubs (Donated by Alumni)": {
+    "Academic Complex": 20,
+    "Department of Applied Mechanics": 35
+  },
+  "New - Computer Science Department And Library": {
+    "Bajaj School of Mechnical Engineering": 35,
+    "Gate 3": 30
+  },
+  "COEP's Bhau Institute": {
+    "Mechanical Engineering Department": 25,
+    "Ignited Innovators of India (i2i)": 15
+  },
+  "Ignited Innovators of India (i2i)": {
+    "Mechanical Engineering Department": 30,
+    "COEP's Bhau Institute": 15,
+    "Department of Applied Mechanics": 40
+  },
+  "Department of Applied Mechanics": {
+    "House of Clubs (Donated by Alumni)": 35,
+    "Ignited Innovators of India (i2i)": 40,
+    "Fluid Mechanics Lab": 25
+  },
+  "Fluid Mechanics Lab": {
+    "Department of Applied Mechanics": 25
+  },
+  "Academic Complex": {
+    "House of Clubs (Donated by Alumni)": 20,
+    "Instrument Department": 30,
+    "Dept of electronics and telecommunication engineering Old Building": 40
+  },
+  "Boat Club": {
+    "COEP Boat Club Canteen": 15,
+    "COEP Badminton Hall": 20
+  },
+  "COEP Boat Club Canteen": {
+    "Boat Club": 15,
+    "COEP Badminton Hall": 25
+  },
+  "COEP Badminton Hall": {
+    "Boat Club": 20,
+    "COEP Boat Club Canteen": 25
+  },
+  "Instrument Department": {
+    "Academic Complex": 30,
+    "Computer Science & Engineering": 35
+  },
+  "Dept of electronics and telecommunication engineering Old Building": {
+    "Academic Complex": 40,
+    "Dept of electronics and telecommunication engineering Extension Building": 20
+  },
+  "Dept of electronics and telecommunication engineering Extension Building": {
+    "Dept of electronics and telecommunication engineering Old Building": 20
+  },
+  "Computer Science & Engineering": {
+    "Instrument Department": 35
+  },
+  "New Building": {}
+}

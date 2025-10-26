@@ -1,0 +1,40 @@
+# === Node.js general ignores ===
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# === Environment & secrets ===
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# === Logs & system files ===
+logs
+*.log
+.DS_Store
+Thumbs.db
+
+# === Build outputs ===
+# For React or other frontend build tools
+frontend/build/
+frontend/dist/
+
+# If you ever serve frontend build from backend
+backend/public/
+
+# === Editor & OS files ===
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+
+# === Cache & dependencies ===
+*.cache/
+.cache/
+.parcel-cache/
+.eslintcache

@@ -1,0 +1,371 @@
+[
+  {
+    "name": "Gate 1 - Entry",
+    "lat": 18.530111,
+    "lng": 73.855194,
+    "maps_url": "https://maps.app.goo.gl/bZbc6haKsAunsP427",
+    "description": "Entry Gate for South Campus",
+    "type": "Gate",
+    "campus_type": "North"
+  },
+  {
+    "name": "COEP META CANTEEN",
+    "lat": 18.5297239495367,
+    "lng": 73.8545216423271,
+    "maps_url": "https://www.google.com/maps/place/COEP+Meta+Canteen/@18.5295889,73.8545719,20.47z/data=!4m15!1m8!3m7!1s0x3bc2c1a6904254ff:0xc1e3e6850c6eae0d!2sCOEP+Meta+Canteen!8m2!3d18.529668!4d73.8545431!10e1!16s%2Fg%2F11h3kx0vzh!3m5!1s0x3bc2c1a6904254ff:0xc1e3e6850c6eae0d!8m2!3d18.529668!4d73.8545431!16s%2Fg%2F11h3kx0vzh?entry=ttu&g_ep=EgoyMDI1MTAwOC4wIKXMDSoASAFQAw%3D%3D",
+    "description": "Meta Canteen of the COEP",
+    "type": "Canteen",
+    "building_name": "Meta Canteen",
+    "floor_number": "G",
+    "campus_type": "North"
+  },
+  {
+    "name": "Geology Department Museum",
+    "lat": 18.5300857609563,
+    "lng": 73.8548983711636,
+    "maps_url": "https://maps.app.goo.gl/rnUGaLEUdPvTg4KBA",
+    "campus_type": "North"
+  },
+  {
+    "name": "K. R. NATU SCHOOL OF ENGINEERING",
+    "lat": 18.529703,
+    "lng": 73.85523,
+    "maps_url": "https://www.google.com/maps/place/18%C2%B031'46.9%22N+73%C2%B051'18.8%22E/@18.5297043,73.8545863,19z/data=!3m1!4b1!4m4!3m3!8m2!3d18.529703!4d73.85523?entry=ttu&g_ep=EgoyMDI1MTAwOC4wIKXMDSoASAFQAw%3D%3D",
+    "floor_number": "G",
+    "campus_type": "North"
+  },
+  {
+    "name": "COEP Co-operative Store & Xerox",
+    "lat": 18.5296619530222,
+    "lng": 73.854984686509,
+    "maps_url": "https://maps.app.goo.gl/oGrSDgyGXRJkNyBf6",
+    "campus_type": "North"
+  },
+  {
+    "name": "Electrical Engineering Department",
+    "lat": 18.5296042474566,
+    "lng": 73.85570405995,
+    "maps_url": "https://www.google.com/maps/place/COEP+Electrical+Engineering+Department/@18.5294791,73.8555702,20.17z/data=!4m14!1m7!3m6!1s0x3bc2c0629b11c1f5:0x8b99d064430ad6a6!2sCOEP+Electrical+Engineering+Department!8m2!3d18.5295859!4d73.8557077!16s%2Fg%2F1th227sb!3m5!1s0x3bc2c0629b11c1f5:0x8b99d064430ad6a6!8m2!3d18.5295859!4d73.8557077!16s%2Fg%2F1th227sb?entry=ttu&g_ep=EgoyMDI1MTAwOC4wIKXMDSoASAFQAw%3D%3D",
+    "type": "Department",
+    "campus_type": "North"
+  },
+  {
+    "name": "COEP Electrical Department Garden",
+    "lat": 18.5294489626012,
+    "lng": 73.8553326269818,
+    "maps_url": "https://maps.app.goo.gl/yBzq3Fwt1T7devRy7",
+    "campus_type": "North"
+  },
+  {
+    "name": "Hella Lab Electrical dept",
+    "lat": 18.5296315034432,
+    "lng": 73.8558088134908,
+    "maps_url": "https://www.google.com/maps/place/18%C2%B031'46.1%22N+73%C2%B051'21.0%22E/@18.529268,73.8559823,20.21z/data=!4m4!3m3!8m2!3d18.529484!4d73.855841?entry=ttu&g_ep=EgoyMDI1MTAwOC4wIKXMDSoASAFQAw%3D%3D",
+    "floor_number": "G",
+    "campus_type": "North"
+  },
+  {
+    "name": "Department of Mathematics",
+    "lat": 18.5292,
+    "lng": 73.8558,
+    "maps_url": "https://maps.app.goo.gl/seFf4x1mpQvNDiJW8",
+    "campus_type": "North"
+  },
+  {
+    "name": "Language Laboratory",
+    "lat": 18.5291,
+    "lng": 73.8558,
+    "maps_url": "https://maps.app.goo.gl/UNjyBrPPuoHLV1us6",
+    "campus_type": "North"
+  },
+  {
+    "name": "Department of Planning",
+    "lat": 18.529,
+    "lng": 73.8558,
+    "maps_url": "https://maps.app.goo.gl/PcWaDsfqpYW7RGTL6",
+    "campus_type": "North"
+  },
+  {
+    "name": "Geotechnical Engineering laboratory & environement engineering lab",
+    "lat": 18.5291,
+    "lng": 73.8559,
+    "maps_url": "https://maps.app.goo.gl/GQbCAkrkxJW33TC4A",
+    "campus_type": "North"
+  },
+  {
+    "name": "Scholorship Section",
+    "lat": 18.5294,
+    "lng": 73.8562,
+    "maps_url": "https://maps.app.goo.gl/teDvZneGZYXckc9d6",
+    "campus_type": "North"
+  },
+  {
+    "name": "Establishment Section",
+    "lat": 18.5294,
+    "lng": 73.8562,
+    "maps_url": "https://maps.app.goo.gl/teDvZneGZYXckc9d6",
+    "campus_type": "North"
+  },
+  {
+    "name": "Account Section",
+    "lat": 18.5294,
+    "lng": 73.8562,
+    "maps_url": "https://maps.app.goo.gl/2HCbVWyjT19vdwiG9",
+    "campus_type": "North"
+  },
+  {
+    "name": "Toilet - Sanitary",
+    "lat": 18.5292,
+    "lng": 73.8561,
+    "maps_url": "https://maps.app.goo.gl/Z3kWrgPQkjqq9YP87",
+    "campus_type": "North"
+  },
+  {
+    "name": "Student Office",
+    "lat": 18.5295,
+    "lng": 73.8564,
+    "maps_url": "https://maps.app.goo.gl/DpTuE2NVRZdcLRU8A",
+    "campus_type": "North"
+  },
+  {
+    "name": "Plumbing Lab",
+    "lat": 18.529,
+    "lng": 73.8561,
+    "maps_url": "https://maps.app.goo.gl/x6wtuaRUjnf3QfQu8",
+    "campus_type": "North"
+  },
+  {
+    "name": "MIS Office",
+    "lat": 18.5292,
+    "lng": 73.8566,
+    "maps_url": "https://maps.app.goo.gl/MbQPjsvZx3vMLpZVA",
+    "campus_type": "North"
+  },
+  {
+    "name": "CIVIL Engineering Departement",
+    "lat": 18.5289,
+    "lng": 73.8567,
+    "maps_url": "https://maps.app.goo.gl/jdMCr2wEf9bxfxMx6",
+    "campus_type": "North"
+  },
+  {
+    "name": "Alumni Association of COEP Tech university",
+    "lat": 18.5292,
+    "lng": 73.8568,
+    "maps_url": "https://maps.app.goo.gl/veqfuypTkD58HNeu6",
+    "campus_type": "North"
+  },
+  {
+    "name": "Training and Placement Cell",
+    "lat": 18.5292,
+    "lng": 73.8568,
+    "maps_url": "https://maps.app.goo.gl/veqfuypTkD58HNeu6",
+    "campus_type": "North"
+  },
+  {
+    "name": "Auditorium/ Central Library/ Events Lobby (mindspark, impressions)",
+    "lat": 18.5294,
+    "lng": 73.8573,
+    "maps_url": "https://maps.app.goo.gl/khKMq926nUoKyXEM6",
+    "campus_type": "North"
+  },
+  {
+    "name": "Department of Manufacturing engineering and industrial management",
+    "lat": 18.5290975083137,
+    "lng": 73.8577360074179,
+    "maps_url": "https://maps.app.goo.gl/kukW1vo5s68E6big9",
+    "campus_type": "North"
+  },
+  {
+    "name": "Zest office",
+    "lat": 18.529271299388,
+    "lng": 73.8572699,
+    "maps_url": "https://maps.app.goo.gl/DJmYKaPtoGMxgDCGA",
+    "campus_type": "North"
+  },
+  {
+    "name": "Seminar Hall - 1",
+    "lat": 18.5291,
+    "lng": 73.8576,
+    "maps_url": "https://maps.app.goo.gl/GefRxYUXXreeKbyn7",
+    "campus_type": "North"
+  },
+  {
+    "name": "Seminar Hall - 2",
+    "lat": 18.5291,
+    "lng": 73.8569,
+    "maps_url": "https://maps.app.goo.gl/qt735T5qSwwFMcK29",
+    "campus_type": "North"
+  },
+  {
+    "name": "COEP SBI Bank / ATM",
+    "lat": 18.5295,
+    "lng": 73.8574,
+    "maps_url": "https://maps.app.goo.gl/2g7xFbUFUYvADJZQ9",
+    "campus_type": "North"
+  },
+  {
+    "name": "Departement of Metallurgy and Material Engineering",
+    "lat": 18.5292,
+    "lng": 73.8584,
+    "maps_url": "https://maps.app.goo.gl/71zysFjZYW8xDTab7",
+    "campus_type": "North"
+  },
+  {
+    "name": "Navarmal Firodia Dept of META",
+    "lat": 18.5292,
+    "lng": 73.8584,
+    "maps_url": "https://maps.app.goo.gl/71zysFjZYW8xDTab7",
+    "campus_type": "North"
+  },
+  {
+    "name": "COEP Bus Stop",
+    "lat": 18.5292992230062,
+    "lng": 73.8584677938396,
+    "maps_url": "https://maps.app.goo.gl/i6a9yd7oJF6Ksnkk9",
+    "campus_type": "North"
+  },
+  {
+    "name": "Gate No. 2",
+    "lat": 18.5292,
+    "lng": 73.8584,
+    "maps_url": "https://maps.app.goo.gl/71zysFjZYW8xDTab7",
+    "campus_type": "North"
+  },
+  {
+    "name": "Statue of COEP",
+    "lat": 18.5295,
+    "lng": 73.8569,
+    "maps_url": "https://maps.app.goo.gl/2gyAn8So6Smh49A36",
+    "campus_type": "North"
+  },
+  {
+    "name": "TUNNEL1 - North Campus Entry and Exit",
+    "lat": 18.5296935427381,
+    "lng": 73.8567387204343,
+    "maps_url": "https://maps.app.goo.gl/CiMozY8e3tvFBaJp6",
+    "campus_type": "North"
+  },
+  {
+    "name": "TUNNEL2 - Sount Campus Entry and Exit",
+    "lat": 18.5303590061531,
+    "lng": 73.856669406035,
+    "maps_url": "https://maps.app.goo.gl/6vqzMVSijdPjpoPq7",
+    "campus_type": "North"
+  },
+  {
+    "name": "Mechanical Engineering Department",
+    "lat": 18.5306712511336,
+    "lng": 73.8565225123747,
+    "maps_url": "https://www.google.com/maps/place/18%C2%B031'50.4%22N+73%C2%B051'23.5%22E/@18.530623,73.8562067,19.38z/data=!4m4!3m3!8m2!3d18.5306712!4d73.8565225?entry=ttu&g_ep=EgoyMDI1MTAwOC4wIKXMDSoASAFQAw%3D%3D",
+    "campus_type": "South"
+  },
+  {
+    "name": "Bajaj School of Mechnical Engineering",
+    "lat": 18.5305503007947,
+    "lng": 73.8570709916214,
+    "campus_type": "South"
+  },
+  {
+    "name": "Hyperloop Lab",
+    "lat": 18.5308051229186,
+    "lng": 73.8570714003752,
+    "campus_type": "South"
+  },
+  {
+    "name": "Gate 3",
+    "lat": 18.5298827057528,
+    "lng": 73.8573303718095,
+    "campus_type": "South"
+  },
+  {
+    "name": "House of Clubs (Donated by Alumni)",
+    "lat": 18.53125843780356,
+    "lng": 73.85577119887417,
+    "campus_type": "South"
+  },
+  {
+    "name": "New - Computer Science Department And Library",
+    "lat": 18.5309434263033,
+    "lng": 73.8572839481986,
+    "campus_type": "South"
+  },
+  {
+    "name": "COEP's Bhau Institute",
+    "lat": 18.5309153500453,
+    "lng": 73.8566896483714,
+    "campus_type": "South"
+  },
+  {
+    "name": "Ignited Innovators of India (i2i)",
+    "lat": 18.5308664762773,
+    "lng": 73.856608383363,
+    "campus_type": "South"
+  },
+  {
+    "name": "Department of Applied Mechanics",
+    "lat": 18.531152405318,
+    "lng": 73.8564123804055,
+    "campus_type": "South"
+  },
+  {
+    "name": "Fluid Mechanics Lab",
+    "lat": 18.5311072866404,
+    "lng": 73.8560350536508,
+    "campus_type": "South"
+  },
+  {
+    "name": "Academic Complex",
+    "lat": 18.5312584378035,
+    "lng": 73.8557711988741,
+    "maps_url": "https://www.google.com/maps/place/18%C2%B031'52.5%22N+73%C2%B051'20.8%22E/@18.5312889,73.8546876,18z/data=!4m4!3m3!8m2!3d18.5312584!4d73.8557712?entry=ttu&g_ep=EgoyMDI1MTAwOC4wIKXMDSoASAFQAw%3D%3D",
+    "campus_type": "South"
+  },
+  {
+    "name": "Boat Club",
+    "lat": 18.5310321332821,
+    "lng": 73.8563298960293,
+    "maps_url": "https://www.google.com/maps/place/COEP+Boat+Club/@18.5310503,73.8559809,20.17z/data=!3m1!5s0x3bc2c088319a6659:0xc18600beb7a88c41!4m6!3m5!1s0x3bc2c0883547926f:0x5fbecadb04a817bf!8m2!3d18.5310149!4d73.8563258!16s%2Fg%2F1tgvc1w5?entry=ttu&g_ep=EgoyMDI1MTAwOC4wIKXMDSoASAFQAw%3D%3D",
+    "campus_type": "South"
+  },
+  {
+    "name": "COEP Boat Club Canteen",
+    "lat": 18.5310016155888,
+    "lng": 73.8561635990637
+  },
+  {
+    "name": "COEP Badminton Hall",
+    "lat": 18.5309532958966,
+    "lng": 73.8563057561472,
+    "maps_url": "https://www.google.com/maps/place/18%C2%B031'51.4%22N+73%C2%B051'22.7%22E/@18.5308906,73.8559616,19.58z/data=!4m4!3m3!8m2!3d18.5309533!4d73.8563058?entry=ttu&g_ep=EgoyMDI1MTAwOC4wIKXMDSoASAFQAw%3D%3D",
+    "campus_type": "South"
+  },
+  {
+    "name": "Instrument Department",
+    "lat": 18.5308813627076,
+    "lng": 73.8557479112334,
+    "maps_url": "https://www.google.com/maps/place/18%C2%B031'51.2%22N+73%C2%B051'20.7%22E/@18.5308512,73.8551375,17.94z/data=!4m4!3m3!8m2!3d18.5308814!4d73.8557479?entry=ttu&g_ep=EgoyMDI1MTAwOC4wIKXMDSoASAFQAw%3D%3D",
+    "campus_type": "South"
+  },
+  {
+    "name": "Dept of electronics and telecommunication engineering Old Building",
+    "lat": 18.5311310122132,
+    "lng": 73.8550463634612,
+    "maps_url": "https://www.google.com/maps/place/18%C2%B031'52.1%22N+73%C2%B051'18.2%22E/@18.5310038,73.8542847,18z/data=!4m4!3m3!8m2!3d18.531131!4d73.8550464?entry=ttu&g_ep=EgoyMDI1MTAwOC4wIKXMDSoASAFQAw%3D%3D",
+    "campus_type": "South"
+  },
+  {
+    "name": "Dept of electronics and telecommunication engineering Extension Building",
+    "lat": 18.531248,
+    "lng": 73.855306,
+    "maps_url": "https://www.google.com/maps/place/18%C2%B031'52.5%22N+73%C2%B051'19.1%22E/@18.5312808,73.8544057,18.32z/data=!4m4!3m3!8m2!3d18.531248!4d73.855306?entry=ttu&g_ep=EgoyMDI1MTAwOC4wIKXMDSoASAFQAw%3D%3D",
+    "campus_type": "South"
+  },
+  {
+    "name": "Computer Science & Engineering",
+    "lat": 18.5306736091724,
+    "lng": 73.8554900565523,
+    "maps_url": "https://www.google.com/maps/place//@18.5305356,73.8551774,20z/data=!4m6!1m5!3m4!2zMTjCsDMxJzUwLjQiTiA3M8KwNTEnMTkuOCJF!8m2!3d18.5306667!4d73.8555?entry=ttu&g_ep=EgoyMDI1MTAwOC4wIKXMDSoASAFQAw%3D%3D",
+    "campus_type": "South"
+  }
+]
