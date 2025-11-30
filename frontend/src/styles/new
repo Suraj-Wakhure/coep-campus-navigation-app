@@ -1,0 +1,58 @@
+// ... (keep your existing container style)
+  container: {
+    minHeight: '100vh',
+    background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
+    padding: '2rem',
+    fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif'
+  },
+
+  // UPDATED CLASSES
+  mainCard: {
+    maxWidth: '1200px',
+    width: '95%', // Added responsive width constraint
+    margin: '2rem auto', // Increased top margin for floating effect
+    background: 'rgba(255, 255, 255, 0.98)', // Slightly clearer white
+    borderRadius: '24px', // Increased curvature
+    // Layered shadow for depth + subtle border ring
+    boxShadow: '0 25px 50px -12px rgba(0, 0, 0, 0.4), 0 0 0 1px rgba(0,0,0,0.03)',
+    overflow: 'hidden',
+    position: 'relative',
+    backdropFilter: 'blur(10px)', // Glassmorphism edge feel
+    border: '1px solid rgba(255, 255, 255, 0.4)'
+  },
+
+  header: {
+    // Richer, "Engineering" Academic Gradient (Deep Blue to Cyan to Violet)
+    background: 'linear-gradient(-45deg, #020024, #090979, #00d4ff, #005bea)',
+    backgroundSize: '400% 400%',
+    padding: '4.5rem 2rem', // Increased vertical whitespace
+    color: 'white',
+    textAlign: 'center',
+    position: 'relative',
+    overflow: 'hidden',
+    // Smoother, slower animation
+    animation: 'gradientMove 15s ease infinite',
+    boxShadow: '0 10px 40px -10px rgba(0,0,0,0.5)',
+    borderBottom: '1px solid rgba(255,255,255,0.1)',
+    zIndex: 10
+  },
+
+  title: {
+    margin: 0,
+    // Responsive font size using clamp
+    fontSize: 'clamp(2.5rem, 5vw, 4.5rem)', 
+    fontWeight: '800',
+    letterSpacing: '-0.03em', // Tight modern tracking
+    fontFamily: '"Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif',
+    // Refined "Liquid Metal" Shine Effect
+    background: 'linear-gradient(to right, #ffffff 20%, #a5f3fc 40%, #ffffff 60%, #ffffff 100%)',
+    backgroundSize: '200% auto',
+    backgroundClip: 'text',
+    WebkitBackgroundClip: 'text',
+    color: 'transparent',
+    WebkitTextFillColor: 'transparent',
+    // Glow matching the shine color
+    textShadow: '0 0 40px rgba(165, 243, 252, 0.3)',
+    animation: 'shine 4s linear infinite',
+    display: 'inline-block'
+  },

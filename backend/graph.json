@@ -84,12 +84,14 @@
   "MIS Office": {
     "Toilet - Sanitary": 30,
     "Student Office": 35,
-    "CIVIL Engineering": 40
+    "CIVIL Engineering": 40,
+    "Zest office": 5
   },
   "CIVIL Engineering": {
     "Plumbing": 45,
     "MIS Office": 40,
-    "Alumni Association": 50
+    "Alumni Association": 50,
+    "Seminar Hall - 1": 10
   },
   "Alumni Association": {
     "CIVIL Engineering": 50,
@@ -111,10 +113,12 @@
     "Metallurgy": 50
   },
   "Zest office": {
-    "Auditorium": 25
+    "Auditorium": 25,
+    "MIS Office": 5
   },
   "Seminar Hall - 1": {
-    "Manufacturing": 20
+    "Manufacturing": 20,
+    "CIVIL Engineering": 10
   },
   "Seminar Hall - 2": {
     "Manufacturing": 35

@@ -15,34 +15,39 @@ export const styles = {
     overflow: 'hidden'
   },
   header: {
-    background: 'linear-gradient(135deg, #5b67f1 0%, #7a58f5 40%, #9b5de5 100%)',
-    padding: '3rem 2rem',
+    // Richer, "Engineering" Academic Gradient (Deep Blue to Cyan to Violet)
+    background: 'linear-gradient(-45deg, #020024, #090979, #00d4ff, #005bea)',
+    backgroundSize: '400% 400%',
+    padding: '4.5rem 2rem', // Increased vertical whitespace
     color: 'white',
     textAlign: 'center',
     position: 'relative',
     overflow: 'hidden',
-    boxShadow: '0 6px 25px rgba(0, 0, 0, 0.25)',
-    borderBottom: '1px solid rgba(255,255,255,0.15)',
-    // soft animated glow effect
-    backgroundSize: '200% 200%',
-    animation: 'gradientMove 8s ease infinite'
+    // Smoother, slower animation
+    animation: 'gradientMove 15s ease infinite',
+    boxShadow: '0 10px 40px -10px rgba(0,0,0,0.5)',
+    borderBottom: '1px solid rgba(255,255,255,0.1)',
+    zIndex: 10
   },
 
   title: {
     margin: 0,
-    fontSize: '3rem',
-    fontWeight: '900',
-    letterSpacing: '-1px',
-    background: 'linear-gradient(90deg, #ffd6e0, #fcb69f, #f6d365, #a1c4fd, #c2e9fb)',
+    // Responsive font size using clamp
+    fontSize: 'clamp(2.5rem, 5vw, 4.5rem)', 
+    fontWeight: '800',
+    letterSpacing: '-0.03em', // Tight modern tracking
+    fontFamily: '"Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif',
+    // Refined "Liquid Metal" Shine Effect
+    background: 'linear-gradient(to right, #ffffff 20%, #a5f3fc 40%, #ffffff 60%, #ffffff 100%)',
+    backgroundSize: '200% auto',
     backgroundClip: 'text',
     WebkitBackgroundClip: 'text',
     color: 'transparent',
-    textShadow: `
-    0 0 20px rgba(255,255,255,0.7),
-    0 0 40px rgba(255,255,255,0.3)
-  `,
-    animation: 'shine 5s linear infinite',
-    fontFamily: '"Poppins", "Montserrat", "Segoe UI", Roboto, sans-serif'
+    WebkitTextFillColor: 'transparent',
+    // Glow matching the shine color
+    textShadow: '0 0 40px rgba(165, 243, 252, 0.3)',
+    animation: 'shine 4s linear infinite',
+    display: 'inline-block'
   },
 
   subtitle: {
