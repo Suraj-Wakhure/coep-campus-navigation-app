@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+//  src/components/GraphVisualizer/GraphVisualizer.jsx
+>>>>>>> aac740d4855773c5a8d00e3ec1bb93624ed6bf72
 import React, { useEffect, useState, useRef } from "react";
 import { useSpring } from "react-spring";
 import { Plus, Minus, LocateFixed } from "lucide-react";
@@ -11,7 +15,7 @@ export default function GraphVisualizer({ graph, highlightedPath, source, destin
   const [hoveredNode, setHoveredNode] = useState(null);
   const [value, setValue] = useState(0);
 
-  // 🧭 Convert GPS to canvas coordinates
+  //  Convert GPS to canvas coordinates
   const gpsToCanvas = (lat, lng, bounds, canvasWidth, canvasHeight) => {
     const padding = 60;
     const usableWidth = canvasWidth - 2 * padding;
@@ -21,7 +25,7 @@ export default function GraphVisualizer({ graph, highlightedPath, source, destin
     return { x: x * scale + pan.x, y: y * scale + pan.y };
   };
 
-  // ✅ Check if an edge is part of the highlighted path
+  //  Check if an edge is part of the highlighted path
   const isEdgeInPath = (from, to) => {
     if (!highlightedPath || highlightedPath.length === 0) return false;
     for (let i = 0; i < highlightedPath.length - 1; i++) {

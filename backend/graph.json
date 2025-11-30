@@ -1,29 +1,25 @@
 {
-  "Gate 1": {
-    "META CANTEEN": 15,
-    "Geology Museum": 40,
-    "K. R. NATU SCHOOL OF ENGINEERING": 60,
-    "Electrical Engineering": 100
-  },
   "META CANTEEN": {
-    "Gate 1": 15,
     "Geology Museum": 30,
     "K. R. NATU SCHOOL OF ENGINEERING": 40,
-    "General Store & Xerox": 25
+    "General Store & Xerox": 25,
+    "Gate 1": 15
   },
   "Geology Museum": {
-    "Gate 1": 40,
     "META CANTEEN": 30,
-    "Electrical Engineering": 45
+    "Electrical Engineering": 45,
+    "Gate 1": 40,
+    "General Store & Xerox": 20
   },
   "K. R. NATU SCHOOL OF ENGINEERING": {
-    "Gate 1": 60,
     "META CANTEEN": 40,
-    "Electrical Engineering": 35
+    "Electrical Engineering": 35,
+    "Gate 1": 60
   },
   "General Store & Xerox": {
     "META CANTEEN": 25,
-    "Electrical Engineering": 40
+    "Electrical Engineering": 40,
+    "Geology Museum": 20
   },
   "Electrical Engineering": {
     "Geology Museum": 45,
@@ -227,5 +223,11 @@
   },
   "ENTC Extension Building": {
     "ENTC - Old building": 20
+  },
+  "Gate 1": {
+    "META CANTEEN": 15,
+    "Geology Museum": 40,
+    "K. R. NATU SCHOOL OF ENGINEERING": 60,
+    "Electrical Engineering": 100
   }
 }
