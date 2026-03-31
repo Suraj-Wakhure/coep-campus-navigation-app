@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
 //  src/components/GraphVisualizer/GraphVisualizer.jsx
->>>>>>> aac740d4855773c5a8d00e3ec1bb93624ed6bf72
 import React, { useEffect, useState, useRef } from "react";
 import { useSpring } from "react-spring";
 import { Plus, Minus, LocateFixed } from "lucide-react";
